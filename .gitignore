@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+*.log
+filesync
 
 # Test binary, build with `go test -c`
 *.test
